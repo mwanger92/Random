@@ -1,0 +1,10 @@
+10x10
+aircraft carrier 5
+battleship 4
+sub 3
+cruiser 3
+destroyer 2
+make the first one completely random the second one n,s,e,w of the first, if the second n/s or e/w pick third on same line
+if guess is 6,4 next guess must be either 6,3; 6,5; 5,4; 7,4;
+can't allow negative rows
+
